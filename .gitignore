@@ -1,6 +1,12 @@
+# Python 虚拟环境
+venv/
+.venv/
+
+# Python 缓存
+__pycache__/
+*.pyc
 
 # C++ 编译产物
 *.exe
 *.o
 *.obj
-*.i
