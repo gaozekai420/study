@@ -1,0 +1,14 @@
+total 58
+drwxr-xr-x 1 Administrator 197121     0 Oct  9 15:27 ./
+drwxr-xr-x 1 Administrator 197121     0 Oct  9 15:19 ../
+-rw-r--r-- 1 Administrator 197121    74 Oct  9 15:11 hello.cpp
+-rwxr-xr-x 1 Administrator 197121 56217 Oct  9 15:11 hello.exe*
+-rw-r--r-- 1 Administrator 197121     0 Oct  9 15:27 list.txt
+-rw-r--r-- 1 Administrator 197121    14 Oct  9 15:23 note.txt
+total 59
+drwxr-xr-x 1 Administrator 197121     0 Oct  9 15:27 ./
+drwxr-xr-x 1 Administrator 197121     0 Oct  9 15:19 ../
+-rw-r--r-- 1 Administrator 197121    74 Oct  9 15:11 hello.cpp
+-rwxr-xr-x 1 Administrator 197121 56217 Oct  9 15:11 hello.exe*
+-rw-r--r-- 1 Administrator 197121   373 Oct  9 15:27 list.txt
+-rw-r--r-- 1 Administrator 197121    14 Oct  9 15:23 note.txt
